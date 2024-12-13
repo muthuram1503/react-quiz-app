@@ -452,11 +452,27 @@
 
 }
 
+@media(max-width:432px)
+{
+    .trivia
+    {
+        width: 370px;
+    }
+}
+
 @media only screen and (device-width: 414px) and (device-height: 896px) 
 {
     .endtext
     {
         padding-left: 0px;
+    }
+}
+
+@media(max-width:414px)
+{
+    .trivia
+    {
+        width: 360px;
     }
 }
 
@@ -541,7 +557,7 @@
 
     .trivia
     {
-        width: 300px;
+        width: 280px;
     }
 
     .endtext
@@ -551,3 +567,28 @@
     }
 
 }
+
+@media(max-width:376px)
+{
+    .trivia
+    {
+        width: 320px;
+    }
+
+}
+@media(max-width:365px)
+{
+    .trivia
+    {
+        width: 300px;
+    }
+}
+
+@media(max-width:350px)
+{
+    .trivia
+    {
+        width: 280px;
+    }
+}
+
