@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-quiz-app/static/css/main.439ad3ec.css",
+    "main.css": "/react-quiz-app/static/css/main.9dd69275.css",
     "main.js": "/react-quiz-app/static/js/main.54cb15b9.js",
     "static/js/885.30cc9c7d.chunk.js": "/react-quiz-app/static/js/885.30cc9c7d.chunk.js",
     "static/media/wait.mp3": "/react-quiz-app/static/media/wait.30e329da76ae665702f7.mp3",
@@ -9,12 +9,12 @@
     "static/media/correct.mp3": "/react-quiz-app/static/media/correct.160572d72c858155072e.mp3",
     "static/media/wrong.mp3": "/react-quiz-app/static/media/wrong.e946821894ae9b0a0d6f.mp3",
     "index.html": "/react-quiz-app/index.html",
-    "main.439ad3ec.css.map": "/react-quiz-app/static/css/main.439ad3ec.css.map",
+    "main.9dd69275.css.map": "/react-quiz-app/static/css/main.9dd69275.css.map",
     "main.54cb15b9.js.map": "/react-quiz-app/static/js/main.54cb15b9.js.map",
     "885.30cc9c7d.chunk.js.map": "/react-quiz-app/static/js/885.30cc9c7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.439ad3ec.css",
+    "static/css/main.9dd69275.css",
     "static/js/main.54cb15b9.js"
   ]
 }
